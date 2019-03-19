@@ -1,0 +1,13 @@
+body>div {
+    text-align: center; 
+}
+
+#completion {
+    text-align: center;
+    position: center fixed;
+}
+
+#description {
+    margin-left: 150px;
+    margin-right: 150px;
+}
