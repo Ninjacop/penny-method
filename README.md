@@ -15,4 +15,4 @@ a while, and I want to share it with everyone, too.
 
 ## Copyright
 
-Copyright (c) Ninjacop, 2019
+Copyright (c) MIT, Ninjacop, 2019
